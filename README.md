@@ -8,4 +8,6 @@
 # Step 1. Add a Message, click the tick
 # Step 2. CLick the three little horizontal dots and click push
 
+pip install 
+
 
